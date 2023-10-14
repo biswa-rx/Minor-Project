@@ -8,7 +8,7 @@ public class MergeWavFiles {
         String inputFile2 = "input2.wav";
         String outputFile = "output.wav";
 
-        // Add your audio(.wav) list here
+        // Add your audio(.wav) list here  ...
         List<String> audioList = new ArrayList<String>();
         audioList.add(inputFile1);
         audioList.add(inputFile2);
